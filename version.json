@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
   "download": "https://raw.githubusercontent.com/adnansantana/MiliCode-FileManager/main/index.php",
-  "notes": "Self-update mendukung file hasil",
+  "notes": "Self-update with safe and persistent result handling",
   "min_php": "5.4.0"
 }
