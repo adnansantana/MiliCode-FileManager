@@ -105,7 +105,7 @@ Perform recursive grep and malware scanning across PHP files, alongside kernel i
 3. Optionally configure `$JAIL` to enforce a filesystem boundary. An empty value permits access to the broader filesystem available to the PHP process.
 
 ```php
-$AUTH_PASSWORD = 'change-this';
+$AUTH_PASSWORD = 'didupooptoday?';
 
 $START_DIR     = __DIR__;
 
