@@ -60,7 +60,7 @@ flowchart TB
 
 ## Features
 
-MiliCode ships **20+ features** in one file — a full file manager plus server, domain, database, and security tools. The list below is explicit. More actions exist in the API router (~64 endpoints).
+MiliCode ships **20+ features** in one file, a full file manager plus server, domain, database, and security tools. The list below is explicit. More actions exist in the API router (~64 endpoints).
 
 **File manager (10+):** browse with breadcrumbs · search by name · text editor · upload with progress · unzip/untar (`zip`, `tar.gz`, `tar`, `rar`) · zip a selection · chmod · touch · rename · cut / copy / paste · bulk delete
 
