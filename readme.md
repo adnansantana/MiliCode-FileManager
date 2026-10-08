@@ -1,5 +1,7 @@
 # MiliCode
 
+![MiliCode Preview](MiliCode.png)
+
 Single-file web file manager and server administration interface with **20+ features** (file manager, terminal, deploy, database, security, and more). One `index.php` contains the complete PHP backend, web UI, CSS, and JavaScript. **No framework. No Composer. No build step.** Deployment is intentionally simple: **upload the file and run it.**
 
 Compatible with **PHP 5.3.3–8.x** on Windows and Linux. Theme: terminal.sexy *Default Dark* (Base16, Chris Kempson).
